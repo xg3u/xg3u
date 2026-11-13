@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-labelledby="t">
+<title id="t">01 — ABOUT</title>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8D5A3"/><stop offset="1" stop-color="#B8944F"/></linearGradient><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#D6B36A" stop-opacity=".7"/><stop offset="1" stop-color="#D6B36A" stop-opacity="0"/></linearGradient></defs>
+<style>.dot{animation:run 5s cubic-bezier(.5,0,.5,1) infinite}@keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(960px);opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".75" y=".75" width="998.5" height="118.5" rx="18" fill="#0B0F14" stroke="#D6B36A" stroke-opacity=".18" stroke-width="1.5"/>
+<path d="M44 60l12-12 12 12-12 12Z" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<text x="90" y="72" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="30" fill="#D6B36A">01</text>
+<text x="146" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" letter-spacing="5" fill="#F5F5F5">ABOUT</text>
+<text x="956" y="70" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" fill="#9CA3AF" fill-opacity=".8">نبذة</text>
+<rect x="40" y="104" width="920" height="1.5" fill="url(#ln)"/>
+<circle class="dot" cx="40" cy="104.75" r="2.5" fill="#E8D5A3"/>
+</svg>

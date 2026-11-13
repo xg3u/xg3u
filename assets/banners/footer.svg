@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" width="720" height="230" role="img" aria-labelledby="t">
+<title id="t">xg3u — thanks for visiting</title>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8D5A3"/><stop offset="1" stop-color="#B8944F"/></linearGradient><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#D6B36A" stop-opacity="0"/><stop offset=".5" stop-color="#D6B36A" stop-opacity=".6"/><stop offset="1" stop-color="#D6B36A" stop-opacity="0"/></linearGradient></defs>
+<style>.hx{animation:s 6s ease-in-out infinite}@keyframes s{0%,100%{opacity:.8}50%{opacity:1}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".75" y=".75" width="718.5" height="228.5" rx="22" fill="#0B0F14" stroke="#D6B36A" stroke-opacity=".18" stroke-width="1.5"/>
+<rect x="60" y="64" width="240" height="1.5" fill="url(#ln)"/><rect x="420" y="64" width="240" height="1.5" fill="url(#ln)"/>
+<g class="hx" transform="translate(324 24) scale(.5625)">
+<path d="M64 6 114.2 35v58L64 122 13.8 93V35Z" fill="#0B0F14" stroke="url(#gold)" stroke-width="3"/>
+<g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M41 43 58 64 41 85" stroke="url(#gold)"/><path d="M87 43 70 64 87 85" stroke="#F5F5F5"/></g></g>
+<text x="360" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="6" fill="#F5F5F5">THANKS FOR VISITING</text>
+<text x="360" y="196" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="28" fill="#E8D5A3" fill-opacity=".85">شكرًا لزيارتك</text>
+</svg>
