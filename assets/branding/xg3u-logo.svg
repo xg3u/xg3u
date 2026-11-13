@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 140" width="440" height="140" role="img" aria-labelledby="t">
+  <title id="t">xg3u logo</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8D5A3"/>
+      <stop offset="1" stop-color="#B8944F"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0 6)">
+    <path d="M64 6 114.2 35v58L64 122 13.8 93V35Z" fill="#0B0F14" stroke="url(#g)" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M64 18 103.8 41v46L64 110 24.2 87V41Z" fill="none" stroke="#D6B36A" stroke-opacity=".18" stroke-width="1.5" stroke-linejoin="round"/>
+    <g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M41 43 58 64 41 85" stroke="url(#g)"/>
+      <path d="M87 43 70 64 87 85" stroke="#F5F5F5"/>
+    </g>
+  </g>
+  <g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <!-- x -->
+    <path d="M160 46.5 178 70 160 93.5" stroke="url(#g)"/>
+    <path d="M206 46.5 188 70 206 93.5" stroke="url(#g)"/>
+    <!-- g -->
+    <g stroke="#F5F5F5">
+      <circle cx="248" cy="70" r="23.5"/>
+      <path d="M271.5 46.5V104a20 20 0 0 1-20 20H236"/>
+      <!-- 3 -->
+      <path d="M298 46.5h40l-19 16a17 17 0 1 1-12 29"/>
+      <!-- u -->
+      <path d="M360 46.5V72a21.5 21.5 0 0 0 43 0V46.5M403 72v21.5"/>
+    </g>
+  </g>
+</svg>
